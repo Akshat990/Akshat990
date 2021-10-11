@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat990" alt="akshat990" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fvector-images%2Fprogrammer-cartoon.html&psig=AOvVaw2t9bKxbhINBI_pMUlOC0QD&ust=1634056112136000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDj1cbjwvMCFQAAAAAdAAAAABAD">
 
 - 🌱 I’m currently learning **Node.js and Competitive Programming**
 
