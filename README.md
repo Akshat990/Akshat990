@@ -23,3 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat990&show_icons=true&locale=en&layout=compact" alt="akshat990" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat990&show_icons=true&locale=en" alt="akshat990" /></p>
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akshat990&theme=github)
