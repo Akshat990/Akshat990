@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat990" alt="akshat990" /></a> </p>
 
 
-- 🌱 I’m currently learning **Node.js and Competitive Programming**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **raghuvanshiakshatsingh@gmail.com**
 
